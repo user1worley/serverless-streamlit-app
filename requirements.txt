@@ -1,0 +1,3 @@
+streamlit==1.22.0
+boto3==1.26.135
+mangum==0.17.0
